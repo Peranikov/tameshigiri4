@@ -35,6 +35,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "gmaps4rails"
+gem "geocoder"
+
 group :development do
   gem 'rails_best_practices'
   gem 'spring'
