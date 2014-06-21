@@ -64,4 +64,6 @@ group :test do
   gem 'factory_girl_rails'     # テストデータの生成
   gem 'database_cleaner'       # テスト実行後にDBをクリア
   gem 'capybara'               # ブラウザでの操作をシミュレートしてテストができる
+  gem 'launchy'                # Capybaraでテスト中に現在のページをブラウザで開ける
+  gem 'poltergeist'            # ヘッドレスブラウザ
 end
