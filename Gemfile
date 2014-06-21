@@ -38,6 +38,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem "gmaps4rails"
 gem "geocoder"
 
+gem 'twitter-bootswatch-rails'
+gem 'therubyracer'
+
 group :development do
   gem 'rails_best_practices'
   gem 'spring'

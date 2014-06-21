@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require underscore-min
 //= require gmaps/google
-//= require_tree .
+//= require amelia/loader
+//= require amelia/bootswatch
