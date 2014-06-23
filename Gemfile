@@ -41,6 +41,8 @@ gem "geocoder"
 gem 'twitter-bootswatch-rails'
 gem 'therubyracer'
 
+gem 'devise'
+
 group :development do
   gem 'rails_best_practices'
   gem 'spring'
