@@ -56,6 +56,7 @@ group :development do
   gem 'awesome_print'
   gem 'hirb'
   gem 'hirb-unicode'
+  gem 'rails-footnotes'
 end
 
 group :test do
